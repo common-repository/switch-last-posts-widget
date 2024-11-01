@@ -1,0 +1,75 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Sort Posts Widget\n"
+"POT-Creation-Date: 2013-10-03 06:42+0100\n"
+"PO-Revision-Date: 2013-10-03 06:46+0100\n"
+"Last-Translator: LordPretender <lordp.webmaster@gmail.com>\n"
+"Language-Team: LordPretender <lordp.webmaster@gmail.com>\n"
+"Language: French\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;_e;_n:1,2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=3; plural=n<=1 ? n : 2;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../switch-last-posts-widget.php:36
+msgid ""
+"This widget displays your recent posts according the current root category."
+msgstr ""
+"Ce widget affiche les articles les plus récent, soit de la catégorie "
+"principale, soit de la catégorie secondaire."
+
+#: ../switch-last-posts-widget.php:165
+msgid "Main category ID : "
+msgstr "ID de la catégorie principale : "
+
+#: ../switch-last-posts-widget.php:168
+msgid "Secondary category ID : "
+msgstr "ID de la catégorie secondaire : "
+
+#~ msgid ""
+#~ "This widget will let visitors order posts by context rather than date "
+#~ "with a dropdown menu."
+#~ msgstr ""
+#~ "Ce widget permet aux utilisateurs de trier les articles grâce à une liste "
+#~ "déroulante."
+
+#~ msgid "By title"
+#~ msgstr "Par titre"
+
+#~ msgid "Newest to oldest"
+#~ msgstr "Du plus récent au plus ancien"
+
+#~ msgid "Oldest to newest"
+#~ msgstr "Du plus ancien au plus récent"
+
+#~ msgid "By modification"
+#~ msgstr "Par modification"
+
+#~ msgid "Sort posts"
+#~ msgstr "Trier les articles"
+
+#~ msgid "Display the order by title"
+#~ msgstr "Afficher le tri par titre"
+
+#~ msgid "Display the order by descending date"
+#~ msgstr "Afficher le tri par date descendante"
+
+#~ msgid "Display the order by ascending date"
+#~ msgstr "Afficher le tri par date ascendante"
+
+#~ msgid "Display the order by modification"
+#~ msgstr "Afficher le tri par modification"
+
+#~ msgid "Adaptation of the plugin \"WP Sort Posts\""
+#~ msgstr "Adaptation de l'extension \"WP Sort Posts\""
+
+#~ msgid "By newest"
+#~ msgstr "Par nouveauté"
+
+#~ msgid "By oldest"
+#~ msgstr "Par ancienneté"
